@@ -10,7 +10,7 @@ Displays relevant emoji based on detected emotion.
 
 Simple and user-friendly interface.
 
-#🛠️ Technologies Used
+🛠️#Technologies Used
 
 Python
 
@@ -22,7 +22,7 @@ Scikit-learn (SVM Classifier) – for training and predicting facial expressions
 
 Tkinter / OpenCV  – for visual display.
 
-#🧠 How It Works
+#How It Works
 
 Face Detection: The application uses OpenCV's Haar Cascade classifier to detect faces in the video stream.
 
@@ -30,7 +30,7 @@ Expression Classification: The detected face is passed to a pre-trained SVM clas
 
 Emoji Display: Based on the predicted emotion, the corresponding emoji is displayed on the screen.
 
-#🧪 Getting Started
+#Getting Started
 
 #Prerequisites
 
